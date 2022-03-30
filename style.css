@@ -1,0 +1,18 @@
+
+.login{
+   padding-top: 30px;
+    margin: 0 auto;
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border: 10px;
+    font-size: smaller;
+}
+
+.quadrado {
+    background-color: #5e1d5e;
+    width: 1600px;
+    height: 300px;
+}
+
+
